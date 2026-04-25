@@ -1,0 +1,49 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
+  <diagram name="Page-1" id="5_WF_WkkmAxbjKLKCoqw">
+    <mxGraphModel dx="1429" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uFwVKxpc1EhZa4DY43mo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Download Data from github" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2Cl6WFR4F33_FfTJ1C-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a Test Set with Stratified Sampling" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2Cl6WFR4F33_FfTJ1C-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Attribute Combination" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2Cl6WFR4F33_FfTJ1C-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Clean Data" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2Cl6WFR4F33_FfTJ1C-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Handle missing values using SimpleImputer" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2Cl6WFR4F33_FfTJ1C-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Handle categorical values using OneHotEncoder" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2Cl6WFR4F33_FfTJ1C-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Feature Scaling using Standarization" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2Cl6WFR4F33_FfTJ1C-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Handle multimodal distribution using RBF" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2Cl6WFR4F33_FfTJ1C-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Use custom Transformer&lt;div&gt;(FunctionTransformer &amp;amp; ClusterSimilarity)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="584.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2Cl6WFR4F33_FfTJ1C-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Use Pipeline" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2Cl6WFR4F33_FfTJ1C-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Train and Evaluate Model" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2Cl6WFR4F33_FfTJ1C-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Use Cross Validation" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk2Cl6WFR4F33_FfTJ1C-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FineTune Model&lt;div&gt;using GridSearch and RandomizedSearch&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="780" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
