@@ -8,3 +8,7 @@ The project is based on concepts from Chapter 2 of Hands-On Machine Learning wit
 ## 📖 Learning Resources
 
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Chapter 2)
+
+## 🗺️ Diagram
+
+![Housing Price Prediction Diagram](HousingPricePredictionDiagram.png)
